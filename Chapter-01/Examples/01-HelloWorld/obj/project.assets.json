@@ -1,38 +1,38 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    "net6.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Walton\\.nuget\\packages\\": {}
+    "C:\\Users\\Talha\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\my content\\Dropbox\\OOP Book in Bangla\\Source Code - New\\Chap 1\\Examples\\HelloWorld\\HelloWorld.csproj",
-      "projectName": "HelloWorld",
-      "projectPath": "F:\\my content\\Dropbox\\OOP Book in Bangla\\Source Code - New\\Chap 1\\Examples\\HelloWorld\\HelloWorld.csproj",
-      "packagesPath": "C:\\Users\\Walton\\.nuget\\packages\\",
-      "outputPath": "F:\\my content\\Dropbox\\OOP Book in Bangla\\Source Code - New\\Chap 1\\Examples\\HelloWorld\\obj\\",
+      "projectUniqueName": "C:\\Users\\Talha\\Documents\\code\\Object-Oriented-Programming\\Chapter-01\\Examples\\01-HelloWorld\\01-HelloWorld.csproj",
+      "projectName": "01-HelloWorld",
+      "projectPath": "C:\\Users\\Talha\\Documents\\code\\Object-Oriented-Programming\\Chapter-01\\Examples\\01-HelloWorld\\01-HelloWorld.csproj",
+      "packagesPath": "C:\\Users\\Talha\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Talha\\Documents\\code\\Object-Oriented-Programming\\Chapter-01\\Examples\\01-HelloWorld\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Walton\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Talha\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "netcoreapp3.1"
+        "net6.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "projectReferences": {}
         }
       },
@@ -43,15 +43,16 @@
       }
     },
     "frameworks": {
-      "netcoreapp3.1": {
-        "targetAlias": "netcoreapp3.1",
+      "net6.0": {
+        "targetAlias": "net6.0",
         "imports": [
           "net461",
           "net462",
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -60,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
