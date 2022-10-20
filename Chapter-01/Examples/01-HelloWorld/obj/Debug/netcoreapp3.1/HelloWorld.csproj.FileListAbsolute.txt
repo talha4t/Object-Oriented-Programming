@@ -1,0 +1,35 @@
+G:\Dropbox\OOP Book in Bangla\Source Code - New\Chapter 1\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csprojAssemblyReference.cache
+G:\Dropbox\OOP Book in Bangla\Source Code - New\Chapter 1\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfoInputs.cache
+G:\Dropbox\OOP Book in Bangla\Source Code - New\Chapter 1\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfo.cs
+G:\Dropbox\OOP Book in Bangla\Source Code - New\Chapter 1\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.dll
+G:\Dropbox\OOP Book in Bangla\Source Code - New\Chapter 1\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.pdb
+G:\Dropbox\OOP Book in Bangla\Source Code - New\Chapter 1\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.exe
+G:\Dropbox\OOP Book in Bangla\Source Code - New\Chapter 1\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.deps.json
+G:\Dropbox\OOP Book in Bangla\Source Code - New\Chapter 1\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.json
+G:\Dropbox\OOP Book in Bangla\Source Code - New\Chapter 1\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.dev.json
+G:\Dropbox\OOP Book in Bangla\Source Code - New\Chapter 1\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.dll
+G:\Dropbox\OOP Book in Bangla\Source Code - New\Chapter 1\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.pdb
+G:\Dropbox\OOP Book in Bangla\Source Code - New\Chap 1\Examples\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.exe
+G:\Dropbox\OOP Book in Bangla\Source Code - New\Chap 1\Examples\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.deps.json
+G:\Dropbox\OOP Book in Bangla\Source Code - New\Chap 1\Examples\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.json
+G:\Dropbox\OOP Book in Bangla\Source Code - New\Chap 1\Examples\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.dev.json
+G:\Dropbox\OOP Book in Bangla\Source Code - New\Chap 1\Examples\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.dll
+G:\Dropbox\OOP Book in Bangla\Source Code - New\Chap 1\Examples\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.pdb
+G:\Dropbox\OOP Book in Bangla\Source Code - New\Chap 1\Examples\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csprojAssemblyReference.cache
+G:\Dropbox\OOP Book in Bangla\Source Code - New\Chap 1\Examples\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfoInputs.cache
+G:\Dropbox\OOP Book in Bangla\Source Code - New\Chap 1\Examples\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfo.cs
+G:\Dropbox\OOP Book in Bangla\Source Code - New\Chap 1\Examples\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.dll
+G:\Dropbox\OOP Book in Bangla\Source Code - New\Chap 1\Examples\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.pdb
+F:\my content\Dropbox\OOP Book in Bangla\Source Code - New\Chap 1\Examples\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.exe
+F:\my content\Dropbox\OOP Book in Bangla\Source Code - New\Chap 1\Examples\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.deps.json
+F:\my content\Dropbox\OOP Book in Bangla\Source Code - New\Chap 1\Examples\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.json
+F:\my content\Dropbox\OOP Book in Bangla\Source Code - New\Chap 1\Examples\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.dev.json
+F:\my content\Dropbox\OOP Book in Bangla\Source Code - New\Chap 1\Examples\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.dll
+F:\my content\Dropbox\OOP Book in Bangla\Source Code - New\Chap 1\Examples\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.pdb
+F:\my content\Dropbox\OOP Book in Bangla\Source Code - New\Chap 1\Examples\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csprojAssemblyReference.cache
+F:\my content\Dropbox\OOP Book in Bangla\Source Code - New\Chap 1\Examples\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfoInputs.cache
+F:\my content\Dropbox\OOP Book in Bangla\Source Code - New\Chap 1\Examples\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfo.cs
+F:\my content\Dropbox\OOP Book in Bangla\Source Code - New\Chap 1\Examples\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csproj.CoreCompileInputs.cache
+F:\my content\Dropbox\OOP Book in Bangla\Source Code - New\Chap 1\Examples\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.dll
+F:\my content\Dropbox\OOP Book in Bangla\Source Code - New\Chap 1\Examples\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.pdb
+F:\my content\Dropbox\OOP Book in Bangla\Source Code - New\Chap 1\Examples\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.genruntimeconfig.cache

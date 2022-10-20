@@ -1,0 +1,24 @@
+G:\Dropbox\OOP Book in Bangla\Source Code - New\Chap 1\Examples\VariableExample1\bin\Debug\netcoreapp3.1\VariableExample1.exe
+G:\Dropbox\OOP Book in Bangla\Source Code - New\Chap 1\Examples\VariableExample1\bin\Debug\netcoreapp3.1\VariableExample1.deps.json
+G:\Dropbox\OOP Book in Bangla\Source Code - New\Chap 1\Examples\VariableExample1\bin\Debug\netcoreapp3.1\VariableExample1.runtimeconfig.json
+G:\Dropbox\OOP Book in Bangla\Source Code - New\Chap 1\Examples\VariableExample1\bin\Debug\netcoreapp3.1\VariableExample1.runtimeconfig.dev.json
+G:\Dropbox\OOP Book in Bangla\Source Code - New\Chap 1\Examples\VariableExample1\bin\Debug\netcoreapp3.1\VariableExample1.dll
+G:\Dropbox\OOP Book in Bangla\Source Code - New\Chap 1\Examples\VariableExample1\bin\Debug\netcoreapp3.1\VariableExample1.pdb
+G:\Dropbox\OOP Book in Bangla\Source Code - New\Chap 1\Examples\VariableExample1\obj\Debug\netcoreapp3.1\VariableExample1.csprojAssemblyReference.cache
+G:\Dropbox\OOP Book in Bangla\Source Code - New\Chap 1\Examples\VariableExample1\obj\Debug\netcoreapp3.1\VariableExample1.AssemblyInfoInputs.cache
+G:\Dropbox\OOP Book in Bangla\Source Code - New\Chap 1\Examples\VariableExample1\obj\Debug\netcoreapp3.1\VariableExample1.AssemblyInfo.cs
+G:\Dropbox\OOP Book in Bangla\Source Code - New\Chap 1\Examples\VariableExample1\obj\Debug\netcoreapp3.1\VariableExample1.dll
+G:\Dropbox\OOP Book in Bangla\Source Code - New\Chap 1\Examples\VariableExample1\obj\Debug\netcoreapp3.1\VariableExample1.pdb
+F:\my content\Dropbox\OOP Book in Bangla\Source Code - New\Chap 1\Examples\VariableExample1\bin\Debug\netcoreapp3.1\VariableExample1.exe
+F:\my content\Dropbox\OOP Book in Bangla\Source Code - New\Chap 1\Examples\VariableExample1\bin\Debug\netcoreapp3.1\VariableExample1.deps.json
+F:\my content\Dropbox\OOP Book in Bangla\Source Code - New\Chap 1\Examples\VariableExample1\bin\Debug\netcoreapp3.1\VariableExample1.runtimeconfig.json
+F:\my content\Dropbox\OOP Book in Bangla\Source Code - New\Chap 1\Examples\VariableExample1\bin\Debug\netcoreapp3.1\VariableExample1.runtimeconfig.dev.json
+F:\my content\Dropbox\OOP Book in Bangla\Source Code - New\Chap 1\Examples\VariableExample1\bin\Debug\netcoreapp3.1\VariableExample1.dll
+F:\my content\Dropbox\OOP Book in Bangla\Source Code - New\Chap 1\Examples\VariableExample1\bin\Debug\netcoreapp3.1\VariableExample1.pdb
+F:\my content\Dropbox\OOP Book in Bangla\Source Code - New\Chap 1\Examples\VariableExample1\obj\Debug\netcoreapp3.1\VariableExample1.csprojAssemblyReference.cache
+F:\my content\Dropbox\OOP Book in Bangla\Source Code - New\Chap 1\Examples\VariableExample1\obj\Debug\netcoreapp3.1\VariableExample1.AssemblyInfoInputs.cache
+F:\my content\Dropbox\OOP Book in Bangla\Source Code - New\Chap 1\Examples\VariableExample1\obj\Debug\netcoreapp3.1\VariableExample1.AssemblyInfo.cs
+F:\my content\Dropbox\OOP Book in Bangla\Source Code - New\Chap 1\Examples\VariableExample1\obj\Debug\netcoreapp3.1\VariableExample1.csproj.CoreCompileInputs.cache
+F:\my content\Dropbox\OOP Book in Bangla\Source Code - New\Chap 1\Examples\VariableExample1\obj\Debug\netcoreapp3.1\VariableExample1.dll
+F:\my content\Dropbox\OOP Book in Bangla\Source Code - New\Chap 1\Examples\VariableExample1\obj\Debug\netcoreapp3.1\VariableExample1.pdb
+F:\my content\Dropbox\OOP Book in Bangla\Source Code - New\Chap 1\Examples\VariableExample1\obj\Debug\netcoreapp3.1\VariableExample1.genruntimeconfig.cache

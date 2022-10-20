@@ -1,0 +1,11 @@
+G:\Dropbox\OOP Book in Bangla\Source Code - New\Chap 1\Examples\VariableExample3UserInput\obj\Debug\netcoreapp3.1\VariableExample3UserInput.csprojAssemblyReference.cache
+G:\Dropbox\OOP Book in Bangla\Source Code - New\Chap 1\Examples\VariableExample3UserInput\obj\Debug\netcoreapp3.1\VariableExample3UserInput.AssemblyInfoInputs.cache
+G:\Dropbox\OOP Book in Bangla\Source Code - New\Chap 1\Examples\VariableExample3UserInput\obj\Debug\netcoreapp3.1\VariableExample3UserInput.AssemblyInfo.cs
+G:\Dropbox\OOP Book in Bangla\Source Code - New\Chap 1\Examples\VariableExample3UserInput\obj\Debug\netcoreapp3.1\VariableExample3UserInput.dll
+G:\Dropbox\OOP Book in Bangla\Source Code - New\Chap 1\Examples\VariableExample3UserInput\obj\Debug\netcoreapp3.1\VariableExample3UserInput.pdb
+G:\Dropbox\OOP Book in Bangla\Source Code - New\Chap 1\Examples\VariableExample3UserInput\bin\Debug\netcoreapp3.1\VariableExample3UserInput.exe
+G:\Dropbox\OOP Book in Bangla\Source Code - New\Chap 1\Examples\VariableExample3UserInput\bin\Debug\netcoreapp3.1\VariableExample3UserInput.deps.json
+G:\Dropbox\OOP Book in Bangla\Source Code - New\Chap 1\Examples\VariableExample3UserInput\bin\Debug\netcoreapp3.1\VariableExample3UserInput.runtimeconfig.json
+G:\Dropbox\OOP Book in Bangla\Source Code - New\Chap 1\Examples\VariableExample3UserInput\bin\Debug\netcoreapp3.1\VariableExample3UserInput.runtimeconfig.dev.json
+G:\Dropbox\OOP Book in Bangla\Source Code - New\Chap 1\Examples\VariableExample3UserInput\bin\Debug\netcoreapp3.1\VariableExample3UserInput.dll
+G:\Dropbox\OOP Book in Bangla\Source Code - New\Chap 1\Examples\VariableExample3UserInput\bin\Debug\netcoreapp3.1\VariableExample3UserInput.pdb

@@ -1,0 +1,20 @@
+G:/Dropbox/OOP Book in Bangla/Source Code/Chapter One  - CSharp Basics/SolutionOfPractice2/SolutionOfPractice2/bin/Debug/SolutionOfPractice2.exe.config
+G:/Dropbox/OOP Book in Bangla/Source Code/Chapter One  - CSharp Basics/SolutionOfPractice2/SolutionOfPractice2/bin/Debug/SolutionOfPractice2.exe
+G:/Dropbox/OOP Book in Bangla/Source Code/Chapter One  - CSharp Basics/SolutionOfPractice2/SolutionOfPractice2/bin/Debug/SolutionOfPractice2.pdb
+G:/Dropbox/OOP Book in Bangla/Source Code/Chapter One  - CSharp Basics/SolutionOfPractice2/SolutionOfPractice2/obj/Debug/SolutionOfPractice2.csprojResolveAssemblyReference.cache
+G:/Dropbox/OOP Book in Bangla/Source Code/Chapter One  - CSharp Basics/SolutionOfPractice2/SolutionOfPractice2/obj/Debug/SolutionOfPractice2.Form1.resources
+G:/Dropbox/OOP Book in Bangla/Source Code/Chapter One  - CSharp Basics/SolutionOfPractice2/SolutionOfPractice2/obj/Debug/SolutionOfPractice2.Properties.Resources.resources
+G:/Dropbox/OOP Book in Bangla/Source Code/Chapter One  - CSharp Basics/SolutionOfPractice2/SolutionOfPractice2/obj/Debug/SolutionOfPractice2.csproj.GenerateResource.Cache
+G:/Dropbox/OOP Book in Bangla/Source Code/Chapter One  - CSharp Basics/SolutionOfPractice2/SolutionOfPractice2/obj/Debug/SolutionOfPractice2.exe
+G:/Dropbox/OOP Book in Bangla/Source Code/Chapter One  - CSharp Basics/SolutionOfPractice2/SolutionOfPractice2/obj/Debug/SolutionOfPractice2.pdb
+G:/Dropbox/OOP Book in Bangla/Source Code - New/Chap 1/Solutions/SolutionOfPractice2/SolutionOfPractice2/bin/Debug/SolutionOfPractice2.exe.config
+G:/Dropbox/OOP Book in Bangla/Source Code - New/Chap 1/Solutions/SolutionOfPractice2/SolutionOfPractice2/bin/Debug/SolutionOfPractice2.exe
+G:/Dropbox/OOP Book in Bangla/Source Code - New/Chap 1/Solutions/SolutionOfPractice2/SolutionOfPractice2/bin/Debug/SolutionOfPractice2.pdb
+G:/Dropbox/OOP Book in Bangla/Source Code - New/Chap 1/Solutions/SolutionOfPractice2/SolutionOfPractice2/obj/Debug/SolutionOfPractice2.csprojAssemblyReference.cache
+G:/Dropbox/OOP Book in Bangla/Source Code - New/Chap 1/Solutions/SolutionOfPractice2/SolutionOfPractice2/obj/Debug/SolutionOfPractice2.Form1.resources
+G:/Dropbox/OOP Book in Bangla/Source Code - New/Chap 1/Solutions/SolutionOfPractice2/SolutionOfPractice2/obj/Debug/SolutionOfPractice2.Properties.Resources.resources
+G:/Dropbox/OOP Book in Bangla/Source Code - New/Chap 1/Solutions/SolutionOfPractice2/SolutionOfPractice2/obj/Debug/SolutionOfPractice2.csproj.GenerateResource.cache
+G:/Dropbox/OOP Book in Bangla/Source Code - New/Chap 1/Solutions/SolutionOfPractice2/SolutionOfPractice2/obj/Debug/SolutionOfPractice2.exe
+G:/Dropbox/OOP Book in Bangla/Source Code - New/Chap 1/Solutions/SolutionOfPractice2/SolutionOfPractice2/obj/Debug/SolutionOfPractice2.pdb
+/home/talha4t/Documents/code/obejct/sourcecode-oopusingcsharp/Chap 1/Solutions/SolutionOfPractice2/SolutionOfPractice2/obj/Debug/SolutionOfPractice2.exe
+/home/talha4t/Documents/code/obejct/sourcecode-oopusingcsharp/Chap 1/Solutions/SolutionOfPractice2/SolutionOfPractice2/obj/Debug/SolutionOfPractice2.pdb
