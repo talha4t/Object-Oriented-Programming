@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace HelloWorldInWindowsForm.Properties
+namespace SolutionOfPractice2.Properties
 {
 
 

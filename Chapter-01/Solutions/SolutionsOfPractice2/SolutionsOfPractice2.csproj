@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1C8E4CE1-41FB-40CE-A202-FBC77C16B832}</ProjectGuid>
+    <ProjectGuid>{2C09F712-66F3-4B75-B98E-939A15F75B75}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>HelloWorldInWindowsForm</RootNamespace>
-    <AssemblyName>HelloWorldInWindowsForm</AssemblyName>
+    <RootNamespace>SolutionsOfPractice2</RootNamespace>
+    <AssemblyName>SolutionsOfPractice2</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

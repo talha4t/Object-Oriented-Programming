@@ -1,4 +1,4 @@
-﻿namespace HelloWorldInWindowsForm
+﻿namespace SolutionOfPractice2
 {
     partial class Form1
     {
@@ -33,9 +33,9 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(167, 125);
+            this.button1.Location = new System.Drawing.Point(362, 183);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(108, 25);
+            this.button1.Size = new System.Drawing.Size(75, 23);
             this.button1.TabIndex = 0;
             this.button1.Text = "Show Hello World";
             this.button1.UseVisualStyleBackColor = true;
@@ -43,9 +43,9 @@
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(429, 273);
+            this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.button1);
             this.Name = "Form1";
             this.Text = "Form1";

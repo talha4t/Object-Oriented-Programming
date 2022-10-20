@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace SolutionOfPractice2
+namespace SolutionsOfPractice2
 {
     public partial class Form1 : Form
     {
@@ -19,17 +19,18 @@ namespace SolutionOfPractice2
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Zohirul Alam Tiemoon");
+            MessageBox.Show("Mahfuja Begum");
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Jahan Ara Begum");
+            MessageBox.Show("Nazmul Hasan");
         }
+
 
         private void button3_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Ashraful Alam");
+            MessageBox.Show("Talha Mahmud");
         }
     }
 }
