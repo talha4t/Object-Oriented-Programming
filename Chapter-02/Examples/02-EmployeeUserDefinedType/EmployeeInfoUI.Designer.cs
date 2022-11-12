@@ -41,7 +41,7 @@
             // saveAndClearButton_Click
             // 
             this.saveAndClearButton_Click.Location = new System.Drawing.Point(247, 286);
-            this.saveAndClearButton_Click.Name = "saveAndClearButton_Click";
+            this.saveAndClearButton_Click.Name = "saveAndClearButton";
             this.saveAndClearButton_Click.Size = new System.Drawing.Size(134, 23);
             this.saveAndClearButton_Click.TabIndex = 0;
             this.saveAndClearButton_Click.Text = "Save and Clear";
@@ -67,7 +67,7 @@
             // showSavedDataButton_Click
             // 
             this.showSavedDataButton_Click.Location = new System.Drawing.Point(416, 286);
-            this.showSavedDataButton_Click.Name = "showSavedDataButton_Click";
+            this.showSavedDataButton_Click.Name = "showSavedDataButton";
             this.showSavedDataButton_Click.Size = new System.Drawing.Size(134, 23);
             this.showSavedDataButton_Click.TabIndex = 0;
             this.showSavedDataButton_Click.Text = "Show Save Data";
@@ -128,10 +128,10 @@
 
         #endregion
 
-        private System.Windows.Forms.Button saveAndClearButton_Click;
+        private System.Windows.Forms.Button saveAndClearButton;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.TextBox idTextBox;
-        private System.Windows.Forms.Button showSavedDataButton_Click;
+        private System.Windows.Forms.Button showSavedDataButton;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.TextBox nameTextBox;

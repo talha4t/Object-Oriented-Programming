@@ -18,7 +18,7 @@ namespace _02_EmployeeUserDefinedType
             InitializeComponent();
         }
 
-        private void saveAndClearButton_Click_Click(object sender, EventArgs e)
+        private void saveAndClearButton_Click(object sender, EventArgs e)
         {
             anEmployee.id = idTextBox.Text;
             anEmployee.name = nameTextBox.Text;
@@ -28,7 +28,7 @@ namespace _02_EmployeeUserDefinedType
             salaryTextBox.Text = "";
         }
 
-        private void showSavedDataButton_Click_Click(object sender, EventArgs e)
+        private void showSavedDataButton_Click(object sender, EventArgs e)
         {
             idTextBox.Text = anEmployee.id;
             nameTextBox.Text = anEmployee.name;
