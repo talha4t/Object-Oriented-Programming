@@ -9,17 +9,22 @@ namespace OOPWalkthrough4CircleApp
         {
             while (true)
             {
-                Console.WriteLine("Please enter the radius of a circle: ");
+                Console.Write("Please enter the radius of a circle: ");
                 string radiusInString = Console.ReadLine();
                 double radius = Convert.ToDouble(radiusInString);
                 Circle aCircle = new Circle();
                 aCircle.radius = radius;
-                Console.WriteLine("Diameter: " + aCircle.GetDiameter);
-                Console.WriteLine("Perimeter: " + aCircle.GetPerimeter);
+                Console.WriteLine("Diameter: " + aCircle.GetDiameter());
+                Console.WriteLine("Perimeter: " + aCircle.GetPerimeter());
                 Console.WriteLine("Area: " + aCircle.GetArea());
                 Console.WriteLine();
+                Console.WriteLine("Want to do it again? press Y");
+                string key = Console.ReadLine();
 
-                Console.WriteLine()
+                if (key.ToUpper() != "Y")
+                {
+                    break;
+                }
             }
         }
     }
