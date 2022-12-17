@@ -18,39 +18,34 @@ namespace _02_OOPWalkThrough2BankAccountApp
             InitializeComponent();
         }
 
-        private void BankAccountUI_Load(object sender, EventArgs e)
-        {
-
-        }
-
         private void createButton_Click(object sender, EventArgs e)
         {
             BankAccount anAccount = new BankAccount();
             anAccount.accountNumber = accountNumberTextBox.Text;
-            anAccount.accountHolderName = holderNameTextBox.Text;
+            anAccount.holderName = holderNameTextBox.Text;
             MessageBox.Show("Account has been created.");
         }
 
         private void depositButton_Click(object sender, EventArgs e)
         {
             double amount = Convert.ToDouble(amountTextBox.Text);
-            anAccount.Deposite(amount);
-            MessageBox.Show(amount + " taka has been deposited.");
+            anAccount.Deposit(amount);
+            MessageBox.Show(amount + "tak has been deposited.");
         }
 
         private void withdrawButton_Click(object sender, EventArgs e)
         {
             double amount = Convert.ToDouble(amountTextBox.Text);
             anAccount.Withdraw(amount);
-            MessageBox.Show(amount + " taka has been withdrawn.");
+            MessageBox.Show(amount + "tkaa has been withdrawn.");
         }
 
         private void reportButton_Click(object sender, EventArgs e)
         {
-            string info = anAccount.accountHolderName + "\n"
-            + "Account number: " + anAccount.accountNumber + "\n"
-            + "Balance: " + anAccount.balance;
-
+            string info = anAccount.holderName+ "\n" +
+                          "Account number: " +
+                          anAccount.accountNumber + "\n" +
+                          "Balance: " + anAccount.balance;
             MessageBox.Show(info);
         }
     }

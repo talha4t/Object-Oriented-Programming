@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{256761CB-0E13-431B-A292-E2A1236CECA3}</ProjectGuid>
+    <ProjectGuid>{B941357D-DDA2-40A3-907E-77B5355AFB12}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>_02_OOPWalkThrough2BankAccountApp</RootNamespace>
     <AssemblyName>02-OOPWalkThrough2BankAccountApp</AssemblyName>
