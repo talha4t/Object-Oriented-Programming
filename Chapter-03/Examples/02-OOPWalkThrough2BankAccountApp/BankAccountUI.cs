@@ -37,7 +37,7 @@ namespace _02_OOPWalkThrough2BankAccountApp
         {
             double amount = Convert.ToDouble(amountTextBox.Text);
             anAccount.Withdraw(amount);
-            MessageBox.Show(amount + "tkaa has been withdrawn.");
+            MessageBox.Show(amount + "taka has been withdrawn.");
         }
 
         private void reportButton_Click(object sender, EventArgs e)
