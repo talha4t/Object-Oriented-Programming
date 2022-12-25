@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _05_ChangeMakerExample2
+namespace _06_ChangeMakerExample2
 {
     internal class Student
     {
