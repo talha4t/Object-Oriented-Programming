@@ -1,10 +1,10 @@
-﻿using System; 
+﻿using System;
 
-namespace _06_RefOfPrimitveType
+namespace _07_RefOfPrimitiveType
 {
     class Program
     {
-        public static void Main(string[] args)
+        static void Main(string[] args)
         {
             int a = 100;
             int b = 200;
@@ -14,8 +14,9 @@ namespace _06_RefOfPrimitveType
             Swap(ref a, ref b);
 
             Console.WriteLine("a = " + a + ", b = " + b);
-            
+            Console.ReadKey();
         }
+
         public static void Swap(ref int a, ref int b)
         {
             int temp = a;
