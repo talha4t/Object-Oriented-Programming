@@ -13,6 +13,7 @@ namespace _04_StudentExample
             st1.ageInYear = 19;
 
             Student st2 = st1;
+            // copy with referance
 
             st2.name = "Pavel";
             st2.cGPA = 3.89;
