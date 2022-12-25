@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace SolutionOfPractice2.Properties
+namespace _02_SolutionOfPractice2.Properties
 {
 
 

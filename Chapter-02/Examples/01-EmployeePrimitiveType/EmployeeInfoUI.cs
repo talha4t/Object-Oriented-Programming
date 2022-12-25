@@ -15,6 +15,7 @@ namespace _01_EmployeePrimitiveType
         private string id;
         private string name;
         private double salary;
+
         public EmployeeInfoUI()
         {
             InitializeComponent();

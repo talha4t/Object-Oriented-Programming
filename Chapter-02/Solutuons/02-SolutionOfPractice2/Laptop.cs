@@ -4,18 +4,19 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SolutionOfPractice2
+namespace _02_SolutionOfPractice2
 {
     internal class Laptop
     {
         public string brandName;
-        public int ramSizeInGB;
+        public int ramInSize;
         public int numberOfCore;
-        public string GetInfoWhetherItIsGoodForProgrammer()
+
+        public string GetInfoWeatherItsGoodForProgrammer()
         {
-            if (ramSizeInGB >= 8 && numberOfCore >= 7)
+            if (ramInSize >= 8 && numberOfCore >= 7)
             {
-                return "The laptop is appropriate for programmer";
+                return "This laptop is appropriate for a programmer";
             }
             else
             {

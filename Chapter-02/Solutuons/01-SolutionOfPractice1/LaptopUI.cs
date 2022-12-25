@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace SolutionOfPractice2
+namespace _01_SolutionOfPractice1
 {
     public partial class LaptopUI : Form
     {
@@ -21,24 +21,24 @@ namespace SolutionOfPractice2
         private void saveAndClearButton_Click(object sender, EventArgs e)
         {
             aLaptop.brandName = brandNameTextBox.Text;
-            aLaptop.ramSizeInGB = Convert.ToInt32(ramSizeTextBox.Text);
+            aLaptop.ramSizeInGB = Convert.ToInt32(ramTextBox.Text);
             aLaptop.numberOfCore = Convert.ToInt32(processorCoreNumberTextBox.Text);
 
-            clearTextBox();
+            ClearTextBoxes();
         }
-        private void clearTextBox()
+        private void showButton_Click(object sender, EventArgs e)
+        {
+            brandNameTextBox.Text = aLaptop.brandName;
+            ramTextBox.Text = aLaptop.ramSizeInGB.ToString();
+            processorCoreNumberTextBox.Text = aLaptop.numberOfCore.ToString();
+
+        }
+        private void ClearTextBoxes()
         {
             brandNameTextBox.Text = "";
-            ramSizeTextBox.Text = "";
+            ramTextBox.Text = "";
             processorCoreNumberTextBox.Text = "";
         }
 
-        private void clearButton_Click(object sender, EventArgs e)
-        {
-            brandNameTextBox.Text = aLaptop.brandName;
-            ramSizeTextBox.Text = aLaptop.ramSizeInGB.ToString();
-            processorCoreNumberTextBox.Text = aLaptop.numberOfCore.ToString();
-            goodOrBadForProgrammerTextBox.Text = aLaptop.GetInfoWhetherItIsGoodForProgrammer();
-        }
     }
 }

@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("SolutionOfPractice2")]
+[assembly: AssemblyTitle("02-SolutionOfOOPPractice2")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("SolutionOfPractice2")]
+[assembly: AssemblyProduct("02-SolutionOfOOPPractice2")]
 [assembly: AssemblyCopyright("Copyright ©  2022")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("0e10df10-f45d-499a-9baa-6fa763a79c79")]
+[assembly: Guid("5fb1e446-e4f4-4e39-b027-97c4811b4d8e")]
 
 // Version information for an assembly consists of the following four values:
 //

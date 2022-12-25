@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{7C757AB6-61EF-45C0-B0C5-753EF698C925}</ProjectGuid>
+    <ProjectGuid>{6159EA8B-9C77-4027-A7A5-AC15ABC94135}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>_01_EmployeePrimitiveType</RootNamespace>
-    <AssemblyName>01-EmployeePrimitiveType</AssemblyName>
+    <RootNamespace>_01_SolutionOfPractice1</RootNamespace>
+    <AssemblyName>01-SolutionOfPractice1</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -46,16 +46,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="EmployeeInfoUI.cs">
+    <Compile Include="Laptop.cs" />
+    <Compile Include="LaptopUI.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="EmployeeInfoUI.Designer.cs">
-      <DependentUpon>EmployeeInfoUI.cs</DependentUpon>
+    <Compile Include="LaptopUI.Designer.cs">
+      <DependentUpon>LaptopUI.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="EmployeeInfoUI.resx">
-      <DependentUpon>EmployeeInfoUI.cs</DependentUpon>
+    <EmbeddedResource Include="LaptopUI.resx">
+      <DependentUpon>LaptopUI.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
