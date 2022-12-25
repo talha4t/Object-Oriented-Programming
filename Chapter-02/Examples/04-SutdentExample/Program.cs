@@ -1,16 +1,11 @@
-﻿using System;
+﻿using _04_SutdentExample;
+using System;
 
-namespace _3_objectClass
+namespace _04_StudentExample
 {
     class Program
     {
-        public class Student
-        {
-            public string name;
-            public double cGPA;
-            public int ageInYear;
-        }
-        public static void Main(string[] args)
+        static void Main(string[] args)
         {
             Student st1 = new Student();
             st1.name = "Talha";
